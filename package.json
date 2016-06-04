@@ -1,0 +1,20 @@
+{
+  "name": "depth",
+  "version": "1.0.0",
+  "description": "Experimenting with depth in p5.js",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7imon7ays/depth.git"
+  },
+  "keywords": [
+    "p5.js",
+    "processing"
+  ],
+  "author": "7imon7ays",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7imon7ays/depth/issues"
+  },
+  "homepage": "https://github.com/7imon7ays/depth#readme"
+}
